@@ -1,0 +1,23 @@
+the textbook is required;
+Here is a phone number he gave in class (maybe his or TA i dont remember):
+435-797-3325
+
+September 2 ---
+
+customer vs user
+
+customers are the ones paying money for the software, from which users will use
+
+users do not pay you, if they ever do theyre paying the customer.
+
+UML - rectangles are classes, within there are 2 divisions, half attr, half methods, then there are arrows between classes that describe
+relationships
+
+phases - 1 - high level - how should this work, fit the requirements
+	2 - low level - making actual documentation
+	3 - development - ideally a short process, this never happens
+	4 - testing - shouldn't be an afterthought
+	5 - deployment - make sure you test first, this can get complicated
+	6 - maintenance - create updates, keep in mind making new code is far easier then adding onto old code
+
+cloodge - bad implementation just to get it done quickly

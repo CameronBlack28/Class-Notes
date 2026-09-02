@@ -1,0 +1,43 @@
+CS3100
+
+computer systems are divided into 4 components:
+hardware - CPU, memory, I/O devices
+os - controls and coordinates use of hardware among various applications and users
+app programs - built onto os
+users - people, machines, other computers
+
+
+user <> app programs <> os <> hardware
+
+The OS:
+ the system sees it as a resource allocator and control program making efficient use of HW and managing execution of other programs
+
+workstations - usually are self dependent and have dedicated resources, sometimes use help from servers
+
+mobile - used to optimize usability and battery life, prioritize touch screens and voice recognition, they have poor resources compared to workstation
+
+embedded - no interface, ideally run without any user intervention directly to computer
+
+goals of OS:
+	execute user programs, solve user problems
+	make the computer system convenient
+	use the hardware efficiently
+kernel - the program that is running at all times
+The Operating System definition is not widely accepted
+
+Today's OSs have middleware that are frameworks that aid in app development, solving redundancies
+An OS is pretty much what a vendor is shipping to you when you order. Depends entirely who you're buying it from. 
+
+--Comp System Organization--
+			- system bus - 
+cpu - disk controller - usb controller - graphics adapter -memory
+
+system bus talks directly to memory
+usb controller - mouse, keyboard, printer
+graphics - you know, tv, monitor
+
+usb controller translates input, travels thru system bus to cpu with the message "type some button" then the cpu will send a message to the appropriate location
+
+buffer - temp storage between components
+
+CPU - the brains of the computer, executes instructions, does all computation, very little happens wo CPU involvement

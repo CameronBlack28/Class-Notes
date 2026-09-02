@@ -1,0 +1,16 @@
+-- Lecture 1 --
+
+Some good venues for papers:
+ACL, EMNLP, NAACL
+
+-Ethics:
+
+one word can have many interpretations
+
+text/audio -> NLP algorithm -> Information
+
+prediction: given x is in X, predict if y is in Y (supervised)
+
+clustering: group similar things (unsupervised)
+
+
