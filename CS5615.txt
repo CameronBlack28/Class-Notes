@@ -14,3 +14,56 @@ prediction: given x is in X, predict if y is in Y (supervised)
 clustering: group similar things (unsupervised)
 
 
+case study: us criminal justice system : 
+	1 - charged w crime
+		1.5a - out on bail
+		1.5b in jail
+	2 - trial
+	3 - prison
+	4- parole eval
+	5 - release
+
+New Jersey - ai is being used to give a rating on incarcerated, helping those be released who deserve it, still had some downsides
+
+judges lowk being replaced by AI algorithms
+
+recidivism - used by judges to determine how long an individual should be sentenced
+
+algorithms are capable of bias
+
+LLMS are an outcome of natural language processing research; some call it AI now, but it's really from NLP. (AI is an all encompassing term)
+
+AI bias - with prompts of "A Black African doctor tending to sick African children" the data it was trained on allowed it to be biased and reinforced white savior
+stereotypes by only generating a white doctor tending to the children.
+
+model fine-tuning used to be very necessary. Not anymore, but fine tuning still improves models.
+
+Prompting examples:
+
+Zero-Shot
+One-shot No instruction
+one-shot
+two-shot
+chain-of-thought
+
+categories that i sorted
+1 - Student ID, Grade
+2 - Age, fav color
+3 - dates, experience
+4 - temp, mass
+
+4 types of attr - 
+nominal - values to be used to distinguish, just different - e.g. zip codes, id, / distinctness
+ordinal - provide info for ordering - rankings, mineral hardness, grades, floor number / order
+interval - differences between values are meaningful - calendar dates, temperature / addition
+ratio - differences and ratios are meaningful; 0 has some sort of meaning - counts, age, length, monetary quantities / subtraction
+
+integers are discrete.
+
+review over some stat concepts
+
+data quality problems - noise, outliers, missing vals, duplicate data
+
+
+
+
